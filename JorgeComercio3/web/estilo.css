@@ -1,0 +1,29 @@
+body {
+    background-image: url("wallpaper.jpg");
+    background-color: #FFFFFF;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: Arial;
+    text-align: center;
+    color: #FFFFFF;
+}
+table, td, tr {
+    border:solid;
+    margin-top: 20px;
+    padding:5px;
+}
+img{
+    margin: 5px;
+    width: 50%;
+    height: 50%;
+}
+a {
+    color: #FFFFFF;
+}
+nav a {
+    padding: 5px;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-decoration: none;
+}
